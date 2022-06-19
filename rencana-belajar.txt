@@ -1,3 +1,4 @@
 - belajar javascript
 framework vue
-framework react js
+framework angular
+
