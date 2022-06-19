@@ -1,2 +1,3 @@
 - belajar javascript
 framework vue
+framework angular
