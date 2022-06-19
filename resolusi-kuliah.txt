@@ -1,2 +1,4 @@
 -membuat project perpustakaan
 -membuat project resto
+-belajar laravel
+-belajar mysql
